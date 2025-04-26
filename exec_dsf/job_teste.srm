@@ -1,0 +1,28 @@
+#!/bin/bash
+#SBATCH --nodes=1           #Numero de Nós
+#SBATCH --ntasks-per-node=1 #Numero de tarefas por Nó
+#SBATCH --ntasks=1          #Numero de tarefas
+#SBATCH -p sequana_cpu_dev        #Fila (partition) a ser utilizada
+#SBATCH -J DSF_teste_script #Nome job
+#SBATCH --time=00:02:00		       #Altera o tempo limite 
+#SBATCH --exclusive         #Utilização exclusiva dos nós durante a execução do job
+
+#Exibe os nos alocados para o Job
+echo $SLURM_JOB_NODELIST
+nodeset -e $SLURM_JOB_NODELIST
+
+cd $SLURM_SUBMIT_DIR
+
+#Configura o módulo de Deep Learning
+#module load cpu_dev/current
+module load python/3.6.9
+source /scratch/dsf_ufj/venv_dsf/bin/activate
+#source /scratch/dsf_ufj/venv/bin/activate
+#source prj/dsf_ufj/env/bin/activate
+module load energyplus/9.0.1
+
+#acessa o diretório onde o script está localizado 
+cd /scratch/dsf_ufj/gisele.silva/exec_dsf
+
+#executa o script
+python3 teste_bibliotecas.py 

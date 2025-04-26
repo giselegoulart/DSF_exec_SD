@@ -1,0 +1,13 @@
+sbatch ./ga/brasilia/job_dsf_shared.srm &
+sleep 2 &
+sbatch ./pso/rio/job_dsf_shared.srm &
+sleep 2 &
+sbatch ./pso/rio/job_dsf_shared.srm &
+sleep 2 &
+sbatch ./pso/rio/job_dsf_shared.srm &
+sleep 2 &
+sbatch ./pso/rio/job_dsf_shared.srm &
+sleep 2 &
+sbatch ./pso/rio/job_dsf_shared.srm &
+sleep 2 &
+sbatch ./pso/rio/job_dsf_shared.srm &

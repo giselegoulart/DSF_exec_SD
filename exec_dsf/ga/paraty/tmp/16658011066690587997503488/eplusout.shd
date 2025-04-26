@@ -1,0 +1,2015 @@
+Shadowing Combinations
+..Solar Distribution=FullExterior
+..In the following, only the first 10 reference surfaces will be shown.
+..But all surfaces are used in the calculations.
+==================================
+Surface=PAV1_Z1_P4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV1_Z1_P3 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=PAV1_Z1_P3_J1_VENEZIANA
+==================================
+Surface=PAV1_Z1_P3_J1_VENEZIANA is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV1_Z1_P1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=6
+..Surface=PAV2_FD_PISO_CHAPA
+..Surface=PAV3_FD_P1_CHAPA
+..Surface=PAV4_FD_P1_CHAPA
+..Surface=PAV6_FD_P1_CHAPA
+..Surface=PAV7_FD_P1_CHAPA
+..Surface=PAV9_FD_P1_CHAPA
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=PAV1_Z1_P1_J2_ABRE
+==================================
+Surface=PAV1_Z1_P1_J2_ABRE is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV1_Z1_P2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV1_Z1_PISO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV1_Z1_TETO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV1_ZLAT2_P2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV1_ZLAT2_P1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=17
+..Surface=PAV2_FD_P4
+..Surface=PAV2_FD_PISO_CHAPA
+..Surface=9D9851
+..Surface=PAV3_FD_P1_CHAPA
+..Surface=PAV4_FD_P4
+..Surface=PAV4_FD_P1_CHAPA
+..Surface=939E77
+..Surface=PAV6_FD_P4
+..Surface=PAV6_FD_P1_CHAPA
+..Surface=PAV7_FD_P1_CHAPA
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV1_ZLAT2_P4 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV1_ZLAT2_P3 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV1_ZLAT2_PISO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV1_ZLAT2_TETO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV1_ZLAT1_P3 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV1_ZLAT1_P4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV1_ZLAT1_P2 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV1_ZLAT1_P1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=17
+..Surface=PAV2_FD_P2
+..Surface=PAV2_FD_PISO_CHAPA
+..Surface=PAV3_FD_P2
+..Surface=PAV3_FD_P1_CHAPA
+..Surface=PAV4_FD_P2
+..Surface=PAV4_FD_P1_CHAPA
+..Surface=170237
+..Surface=PAV6_FD_P2
+..Surface=PAV6_FD_P1_CHAPA
+..Surface=PAV7_FD_P1_CHAPA
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV1_ZLAT1_PISO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV1_ZLAT1_TETO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV2_ZLAT1_P4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV2_ZLAT1_P2 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV2_ZLAT1_P1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=16
+..Surface=PAV2_FD_P2
+..Surface=PAV3_FD_P2
+..Surface=PAV3_FD_P1_CHAPA
+..Surface=PAV4_FD_P2
+..Surface=PAV4_FD_P1_CHAPA
+..Surface=170237
+..Surface=PAV6_FD_P2
+..Surface=PAV6_FD_P1_CHAPA
+..Surface=PAV7_FD_P1_CHAPA
+..Surface=5A1156
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV2_ZLAT1_P3 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV2_ZLAT1_PISO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV2_ZLAT1_TETO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV2_Z1_P2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV2_Z1_P3 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=PAV2_Z1_P3_J1_VENEZIANA
+==================================
+Surface=PAV2_Z1_P3_J1_VENEZIANA is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV2_Z1_P4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV2_Z1_P1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV2_Z1_P1_J2_ABRE is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV2_Z1_PISO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV2_Z1_TETO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV2_ZLAT2_P4 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV2_ZLAT2_P2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV2_ZLAT2_P1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=16
+..Surface=PAV2_FD_P4
+..Surface=9D9851
+..Surface=PAV3_FD_P1_CHAPA
+..Surface=PAV4_FD_P4
+..Surface=PAV4_FD_P1_CHAPA
+..Surface=939E77
+..Surface=PAV6_FD_P4
+..Surface=PAV6_FD_P1_CHAPA
+..Surface=PAV7_FD_P1_CHAPA
+..Surface=AAAA7D
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV2_ZLAT2_P3 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV2_ZLAT2_PISO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV2_ZLAT2_TETO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV3_ZLAT1_P3 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV3_ZLAT1_P4 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV3_ZLAT1_P2 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV3_ZLAT1_P1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=15
+..Surface=PAV3_FD_P2
+..Surface=PAV3_FD_P1_CHAPA
+..Surface=PAV4_FD_P2
+..Surface=PAV4_FD_P1_CHAPA
+..Surface=170237
+..Surface=PAV6_FD_P2
+..Surface=PAV6_FD_P1_CHAPA
+..Surface=PAV7_FD_P1_CHAPA
+..Surface=5A1156
+..Surface=PAV8_FD_P2
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV3_ZLAT1_PISO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV3_ZLAT1_TETO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV3_Z1_P3 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=PAV3_Z1_P3_J1_VENEZIANA
+==================================
+Surface=PAV3_Z1_P3_J1_VENEZIANA is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV3_Z1_P4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV3_Z1_P1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV3_Z1_P1_J2_ABRE is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV3_Z1_P2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV3_Z1_PISO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV3_Z1_TETO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV3_ZLAT2_P3 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV3_ZLAT2_P2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV3_ZLAT2_P1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=15
+..Surface=9D9851
+..Surface=PAV3_FD_P1_CHAPA
+..Surface=PAV4_FD_P4
+..Surface=PAV4_FD_P1_CHAPA
+..Surface=939E77
+..Surface=PAV6_FD_P4
+..Surface=PAV6_FD_P1_CHAPA
+..Surface=PAV7_FD_P1_CHAPA
+..Surface=AAAA7D
+..Surface=PAV8_FD_P4
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV3_ZLAT2_P4 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV3_ZLAT2_PISO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV3_ZLAT2_TETO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV4_ZLAT1_P3 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV4_ZLAT1_P1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=13
+..Surface=PAV4_FD_P2
+..Surface=PAV4_FD_P1_CHAPA
+..Surface=170237
+..Surface=PAV6_FD_P2
+..Surface=PAV6_FD_P1_CHAPA
+..Surface=PAV7_FD_P1_CHAPA
+..Surface=5A1156
+..Surface=PAV8_FD_P2
+..Surface=PAV9_FD_P2
+..Surface=PAV9_FD_P1_CHAPA
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV4_ZLAT1_P2 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV4_ZLAT1_P4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV4_ZLAT1_PISO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV4_ZLAT1_TETO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV4_Z1_P3 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=PAV4_Z1_P3_J1_VENEZIANA
+==================================
+Surface=PAV4_Z1_P3_J1_VENEZIANA is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV4_Z1_P4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV4_Z1_P2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV4_Z1_P1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV4_Z1_P1_J2_ABRE is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV4_Z1_PISO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV4_Z1_TETO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV4_ZLAT2_P3 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV4_ZLAT2_P2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV4_ZLAT2_P1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=13
+..Surface=PAV4_FD_P4
+..Surface=PAV4_FD_P1_CHAPA
+..Surface=939E77
+..Surface=PAV6_FD_P4
+..Surface=PAV6_FD_P1_CHAPA
+..Surface=PAV7_FD_P1_CHAPA
+..Surface=AAAA7D
+..Surface=PAV8_FD_P4
+..Surface=PAV9_FD_P4
+..Surface=PAV9_FD_P1_CHAPA
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV4_ZLAT2_P4 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV4_ZLAT2_PISO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV4_ZLAT2_TETO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV5_ZLAT1_P3 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV5_ZLAT1_P2 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV5_ZLAT1_P4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV5_ZLAT1_P1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=11
+..Surface=170237
+..Surface=PAV6_FD_P2
+..Surface=PAV6_FD_P1_CHAPA
+..Surface=PAV7_FD_P1_CHAPA
+..Surface=5A1156
+..Surface=PAV8_FD_P2
+..Surface=PAV9_FD_P2
+..Surface=PAV9_FD_P1_CHAPA
+..Surface=PAV10_FD_P2
+..Surface=PAV11_FD_P2
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV5_ZLAT1_PISO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV5_ZLAT1_TETO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV5_Z1_P3 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=PAV5_Z1_P3_J1_VENEZIANA
+==================================
+Surface=PAV5_Z1_P3_J1_VENEZIANA is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV5_Z1_P1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV5_Z1_P1_J2_ABRE is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV5_Z1_P2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV5_Z1_P4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV5_Z1_PISO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV5_Z1_TETO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV5_ZLAT2_P2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV5_ZLAT2_P3 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV5_ZLAT2_P4 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV5_ZLAT2_P1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=11
+..Surface=939E77
+..Surface=PAV6_FD_P4
+..Surface=PAV6_FD_P1_CHAPA
+..Surface=PAV7_FD_P1_CHAPA
+..Surface=AAAA7D
+..Surface=PAV8_FD_P4
+..Surface=PAV9_FD_P4
+..Surface=PAV9_FD_P1_CHAPA
+..Surface=PAV10_FD_P4
+..Surface=PAV11_FD_P4
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV5_ZLAT2_PISO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV5_ZLAT2_TETO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV6_ZLAT1_P1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=10
+..Surface=PAV6_FD_P2
+..Surface=PAV6_FD_P1_CHAPA
+..Surface=PAV7_FD_P1_CHAPA
+..Surface=5A1156
+..Surface=PAV8_FD_P2
+..Surface=PAV9_FD_P2
+..Surface=PAV9_FD_P1_CHAPA
+..Surface=PAV10_FD_P2
+..Surface=PAV11_FD_P2
+..Surface=PAV12_FD_P2
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV6_ZLAT1_P4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV6_ZLAT1_P2 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV6_ZLAT1_P3 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV6_ZLAT1_PISO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV6_ZLAT1_TETO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV6_Z1_P1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV6_Z1_P1_J2_ABRE is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV6_Z1_P2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV6_Z1_P4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV6_Z1_P3 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=PAV6_Z1_P3_J1_VENEZIANA
+==================================
+Surface=PAV6_Z1_P3_J1_VENEZIANA is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV6_Z1_PISO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV6_Z1_TETO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV6_ZLAT2_P2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV6_ZLAT2_P3 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV6_ZLAT2_P4 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV6_ZLAT2_P1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=10
+..Surface=PAV6_FD_P4
+..Surface=PAV6_FD_P1_CHAPA
+..Surface=PAV7_FD_P1_CHAPA
+..Surface=AAAA7D
+..Surface=PAV8_FD_P4
+..Surface=PAV9_FD_P4
+..Surface=PAV9_FD_P1_CHAPA
+..Surface=PAV10_FD_P4
+..Surface=PAV11_FD_P4
+..Surface=PAV12_FD_P4
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV6_ZLAT2_PISO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV6_ZLAT2_TETO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV7_ZLAT1_P3 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV7_ZLAT1_P2 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV7_ZLAT1_P1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=8
+..Surface=PAV7_FD_P1_CHAPA
+..Surface=5A1156
+..Surface=PAV8_FD_P2
+..Surface=PAV9_FD_P2
+..Surface=PAV9_FD_P1_CHAPA
+..Surface=PAV10_FD_P2
+..Surface=PAV11_FD_P2
+..Surface=PAV12_FD_P2
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV7_ZLAT1_P4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV7_ZLAT1_PISO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV7_ZLAT1_TETO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV7_Z1_P3 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=PAV7_Z1_P3_J1_VENEZIANA
+==================================
+Surface=PAV7_Z1_P3_J1_VENEZIANA is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV7_Z1_P4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV7_Z1_P2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV7_Z1_P1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV7_Z1_P1_J2_ABRE is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV7_Z1_PISO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV7_Z1_TETO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV7_ZLAT2_P4 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV7_ZLAT2_P2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV7_ZLAT2_P3 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV7_ZLAT2_P1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=8
+..Surface=PAV7_FD_P1_CHAPA
+..Surface=AAAA7D
+..Surface=PAV8_FD_P4
+..Surface=PAV9_FD_P4
+..Surface=PAV9_FD_P1_CHAPA
+..Surface=PAV10_FD_P4
+..Surface=PAV11_FD_P4
+..Surface=PAV12_FD_P4
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV7_ZLAT2_PISO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV7_ZLAT2_TETO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV8_ZLAT1_P3 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV8_ZLAT1_P4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV8_ZLAT1_P2 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV8_ZLAT1_P1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=6
+..Surface=PAV8_FD_P2
+..Surface=PAV9_FD_P2
+..Surface=PAV9_FD_P1_CHAPA
+..Surface=PAV10_FD_P2
+..Surface=PAV11_FD_P2
+..Surface=PAV12_FD_P2
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV8_ZLAT1_PISO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV8_ZLAT1_TETO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV8_Z1_P4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV8_Z1_P2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV8_Z1_P3 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=PAV8_Z1_P3_J1_VENEZIANA
+==================================
+Surface=PAV8_Z1_P3_J1_VENEZIANA is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV8_Z1_P1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV8_Z1_P1_J2_ABRE is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV8_Z1_PISO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV8_Z1_TETO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV8_ZLAT2_P2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV8_ZLAT2_P1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=6
+..Surface=PAV8_FD_P4
+..Surface=PAV9_FD_P4
+..Surface=PAV9_FD_P1_CHAPA
+..Surface=PAV10_FD_P4
+..Surface=PAV11_FD_P4
+..Surface=PAV12_FD_P4
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV8_ZLAT2_P4 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV8_ZLAT2_P3 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV8_ZLAT2_PISO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV8_ZLAT2_TETO is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=6
+..Surface=PAV9_FD_P4
+..Surface=PAV9_FD_P1_CHAPA
+..Surface=PAV10_FD_P4
+..Surface=PAV11_FD_P4
+..Surface=PAV12_FD_P4
+..Surface=PAV12_FD_P3
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV9_ZLAT2_P3 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV9_ZLAT2_P2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV9_ZLAT2_P4 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV9_ZLAT2_P1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=5
+..Surface=PAV9_FD_P4
+..Surface=PAV9_FD_P1_CHAPA
+..Surface=PAV10_FD_P4
+..Surface=PAV11_FD_P4
+..Surface=PAV12_FD_P4
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV9_ZLAT2_PISO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV9_ZLAT2_TETO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV9_Z1_P3 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=PAV9_Z1_P3_J1_VENEZIANA
+==================================
+Surface=PAV9_Z1_P3_J1_VENEZIANA is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV9_Z1_P4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV9_Z1_P1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV9_Z1_P1_J2_ABRE is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV9_Z1_P2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV9_Z1_PISO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV9_Z1_TETO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV9_ZLAT1_P3 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV9_ZLAT1_P2 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV9_ZLAT1_P1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=5
+..Surface=PAV9_FD_P2
+..Surface=PAV9_FD_P1_CHAPA
+..Surface=PAV10_FD_P2
+..Surface=PAV11_FD_P2
+..Surface=PAV12_FD_P2
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV9_ZLAT1_P4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV9_ZLAT1_PISO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV9_ZLAT1_TETO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV10_ZLAT1_P2 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV10_ZLAT1_P3 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV10_ZLAT1_P1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=3
+..Surface=PAV10_FD_P2
+..Surface=PAV11_FD_P2
+..Surface=PAV12_FD_P2
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV10_ZLAT1_P4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV10_ZLAT1_PISO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV10_ZLAT1_TETO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV10_Z1_P2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV10_Z1_P1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV10_Z1_P1_J2_ABRE is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV10_Z1_P3 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=PAV10_Z1_P3_J1_VENEZIANA
+==================================
+Surface=PAV10_Z1_P3_J1_VENEZIANA is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV10_Z1_P4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV10_Z1_PISO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV10_Z1_TETO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV10_ZLAT2_P2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV10_ZLAT2_P4 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV10_ZLAT2_P1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=3
+..Surface=PAV10_FD_P4
+..Surface=PAV11_FD_P4
+..Surface=PAV12_FD_P4
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV10_ZLAT2_P3 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV10_ZLAT2_PISO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV10_ZLAT2_TETO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV11_ZLAT1_P3 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV11_ZLAT1_P1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=2
+..Surface=PAV11_FD_P2
+..Surface=PAV12_FD_P2
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV11_ZLAT1_P2 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV11_ZLAT1_P4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV11_ZLAT1_PISO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV11_ZLAT1_TETO is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=2
+..Surface=PAV12_FD_P2
+..Surface=PAV12_FD_P3
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV11_Z1_P2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV11_Z1_P1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV11_Z1_P1_J2_ABRE is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV11_Z1_P3 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=PAV11_Z1_P3_J1_VENEZIANA
+==================================
+Surface=PAV11_Z1_P3_J1_VENEZIANA is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV11_Z1_P4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV11_Z1_PISO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV11_Z1_TETO is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=1
+..Surface=PAV12_FD_P3
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV11_ZLAT2_P1 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=2
+..Surface=PAV11_FD_P4
+..Surface=PAV12_FD_P4
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV11_ZLAT2_P2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV11_ZLAT2_P4 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV11_ZLAT2_P3 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV11_ZLAT2_PISO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV11_ZLAT2_TETO is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=2
+..Surface=PAV12_FD_P4
+..Surface=PAV12_FD_P3
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV2_FD_P3 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV2_FD_P3_J2_ABRE is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV2_FD_P2 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=10
+..Surface=PAV2_ZLAT1_P1
+..Surface=PAV3_ZLAT1_P1
+..Surface=PAV4_ZLAT1_P1
+..Surface=PAV5_ZLAT1_P1
+..Surface=PAV6_ZLAT1_P1
+..Surface=PAV7_ZLAT1_P1
+..Surface=PAV8_ZLAT1_P1
+..Surface=PAV9_ZLAT1_P1
+..Surface=PAV10_ZLAT1_P1
+..Surface=PAV11_ZLAT1_P1
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV2_FD_P4 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=10
+..Surface=PAV2_ZLAT2_P1
+..Surface=PAV3_ZLAT2_P1
+..Surface=PAV4_ZLAT2_P1
+..Surface=PAV5_ZLAT2_P1
+..Surface=PAV6_ZLAT2_P1
+..Surface=PAV7_ZLAT2_P1
+..Surface=PAV8_ZLAT2_P1
+..Surface=PAV9_ZLAT2_P1
+..Surface=PAV10_ZLAT2_P1
+..Surface=PAV11_ZLAT2_P1
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV2_FD_P1_CHAPA is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=PAV2_FD_P1_J1_FIXO
+==================================
+Surface=PAV2_FD_P1_J1_FIXO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV2_FD_PISO_CHAPA is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=PAV2_FD_PISO_J1_ABERTA
+==================================
+Surface=PAV2_FD_PISO_J1_ABERTA is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV2_FD_TETO_CHAPA is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV2_FD_TETO_ABERTA is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV3_FD_P3 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV3_FD_P3_J2_ABRE is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV3_FD_P2 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=9
+..Surface=PAV3_ZLAT1_P1
+..Surface=PAV4_ZLAT1_P1
+..Surface=PAV5_ZLAT1_P1
+..Surface=PAV6_ZLAT1_P1
+..Surface=PAV7_ZLAT1_P1
+..Surface=PAV8_ZLAT1_P1
+..Surface=PAV9_ZLAT1_P1
+..Surface=PAV10_ZLAT1_P1
+..Surface=PAV11_ZLAT1_P1
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=9D9851 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=9
+..Surface=PAV3_ZLAT2_P1
+..Surface=PAV4_ZLAT2_P1
+..Surface=PAV5_ZLAT2_P1
+..Surface=PAV6_ZLAT2_P1
+..Surface=PAV7_ZLAT2_P1
+..Surface=PAV8_ZLAT2_P1
+..Surface=PAV9_ZLAT2_P1
+..Surface=PAV10_ZLAT2_P1
+..Surface=PAV11_ZLAT2_P1
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV3_FD_P1_CHAPA is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=18
+..Surface=PAV3_ZLAT1_P1
+..Surface=PAV3_ZLAT2_P1
+..Surface=PAV4_ZLAT1_P1
+..Surface=PAV4_ZLAT2_P1
+..Surface=PAV5_ZLAT1_P1
+..Surface=PAV5_ZLAT2_P1
+..Surface=PAV6_ZLAT1_P1
+..Surface=PAV6_ZLAT2_P1
+..Surface=PAV7_ZLAT1_P1
+..Surface=PAV7_ZLAT2_P1
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=PAV3_FD_P1_J1_FIXO
+==================================
+Surface=PAV3_FD_P1_J1_FIXO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV3_FD_PISO_CHAPA is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV3_FD_PISO_J1_ABERTA is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV3_FD_TETO_CHAPA is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV3_FD_TETO_ABERTA is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV4_FD_P3 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV4_FD_P3_J2_ABRE is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV4_FD_P2 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=8
+..Surface=PAV4_ZLAT1_P1
+..Surface=PAV5_ZLAT1_P1
+..Surface=PAV6_ZLAT1_P1
+..Surface=PAV7_ZLAT1_P1
+..Surface=PAV8_ZLAT1_P1
+..Surface=PAV9_ZLAT1_P1
+..Surface=PAV10_ZLAT1_P1
+..Surface=PAV11_ZLAT1_P1
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV4_FD_P4 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=8
+..Surface=PAV4_ZLAT2_P1
+..Surface=PAV5_ZLAT2_P1
+..Surface=PAV6_ZLAT2_P1
+..Surface=PAV7_ZLAT2_P1
+..Surface=PAV8_ZLAT2_P1
+..Surface=PAV9_ZLAT2_P1
+..Surface=PAV10_ZLAT2_P1
+..Surface=PAV11_ZLAT2_P1
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV4_FD_P1_CHAPA is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=16
+..Surface=PAV4_ZLAT1_P1
+..Surface=PAV4_ZLAT2_P1
+..Surface=PAV5_ZLAT1_P1
+..Surface=PAV5_ZLAT2_P1
+..Surface=PAV6_ZLAT1_P1
+..Surface=PAV6_ZLAT2_P1
+..Surface=PAV7_ZLAT1_P1
+..Surface=PAV7_ZLAT2_P1
+..Surface=PAV8_ZLAT1_P1
+..Surface=PAV8_ZLAT2_P1
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=PAV4_FD_P1_J1_FIXO
+==================================
+Surface=PAV4_FD_P1_J1_FIXO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV4_FD_PISO_CHAPA is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV4_FD_PISO_J1_ABERTA is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV4_FD_TETO_CHAPA is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV4_FD_TETO_ABERTA is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV5_FD_P3 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV5_FD_P3_J2_ABRE is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV5_FD_P1_CHAPA is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=PAV5_FD_P1_J1_FIXO
+==================================
+Surface=PAV5_FD_P1_J1_FIXO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=170237 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=7
+..Surface=PAV5_ZLAT1_P1
+..Surface=PAV6_ZLAT1_P1
+..Surface=PAV7_ZLAT1_P1
+..Surface=PAV8_ZLAT1_P1
+..Surface=PAV9_ZLAT1_P1
+..Surface=PAV10_ZLAT1_P1
+..Surface=PAV11_ZLAT1_P1
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=939E77 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=7
+..Surface=PAV5_ZLAT2_P1
+..Surface=PAV6_ZLAT2_P1
+..Surface=PAV7_ZLAT2_P1
+..Surface=PAV8_ZLAT2_P1
+..Surface=PAV9_ZLAT2_P1
+..Surface=PAV10_ZLAT2_P1
+..Surface=PAV11_ZLAT2_P1
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV5_FD_PISO_CHAPA is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV5_FD_PISO_J1_ABERTA is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV5_FD_TETO_CHAPA is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV5_FD_TETO_ABERTA is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV6_FD_P3 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV6_FD_P3_J2_ABRE is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV6_FD_P2 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=6
+..Surface=PAV6_ZLAT1_P1
+..Surface=PAV7_ZLAT1_P1
+..Surface=PAV8_ZLAT1_P1
+..Surface=PAV9_ZLAT1_P1
+..Surface=PAV10_ZLAT1_P1
+..Surface=PAV11_ZLAT1_P1
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV6_FD_P4 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=6
+..Surface=PAV6_ZLAT2_P1
+..Surface=PAV7_ZLAT2_P1
+..Surface=PAV8_ZLAT2_P1
+..Surface=PAV9_ZLAT2_P1
+..Surface=PAV10_ZLAT2_P1
+..Surface=PAV11_ZLAT2_P1
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV6_FD_P1_CHAPA is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=12
+..Surface=PAV6_ZLAT1_P1
+..Surface=PAV6_ZLAT2_P1
+..Surface=PAV7_ZLAT1_P1
+..Surface=PAV7_ZLAT2_P1
+..Surface=PAV8_ZLAT1_P1
+..Surface=PAV8_ZLAT2_P1
+..Surface=PAV9_ZLAT2_P1
+..Surface=PAV9_ZLAT1_P1
+..Surface=PAV10_ZLAT1_P1
+..Surface=PAV10_ZLAT2_P1
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=PAV6_FD_P1_J1_FIXO
+==================================
+Surface=PAV6_FD_P1_J1_FIXO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV6_FD_PISO_CHAPA is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV6_FD_PISO_J1_ABERTA is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV6_FD_TETO_CHAPA is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV6_FD_TETO_ABERTA is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV7_FD_P3 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV7_FD_P3_J2_ABRE is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV7_FD_P1_CHAPA is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=10
+..Surface=PAV7_ZLAT1_P1
+..Surface=PAV7_ZLAT2_P1
+..Surface=PAV8_ZLAT1_P1
+..Surface=PAV8_ZLAT2_P1
+..Surface=PAV9_ZLAT2_P1
+..Surface=PAV9_ZLAT1_P1
+..Surface=PAV10_ZLAT1_P1
+..Surface=PAV10_ZLAT2_P1
+..Surface=PAV11_ZLAT1_P1
+..Surface=PAV11_ZLAT2_P1
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=PAV7_FD_P1_J1_FIXO
+==================================
+Surface=PAV7_FD_P1_J1_FIXO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=5A1156 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=5
+..Surface=PAV7_ZLAT1_P1
+..Surface=PAV8_ZLAT1_P1
+..Surface=PAV9_ZLAT1_P1
+..Surface=PAV10_ZLAT1_P1
+..Surface=PAV11_ZLAT1_P1
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=AAAA7D is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=5
+..Surface=PAV7_ZLAT2_P1
+..Surface=PAV8_ZLAT2_P1
+..Surface=PAV9_ZLAT2_P1
+..Surface=PAV10_ZLAT2_P1
+..Surface=PAV11_ZLAT2_P1
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV7_FD_PISO_CHAPA is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV7_FD_PISO_J1_ABERTA is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV7_FD_TETO_CHAPA is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV7_FD_TETO_ABERTA is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV8_FD_P3 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV8_FD_P3_J2_ABRE is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV8_FD_P4 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=4
+..Surface=PAV8_ZLAT2_P1
+..Surface=PAV9_ZLAT2_P1
+..Surface=PAV10_ZLAT2_P1
+..Surface=PAV11_ZLAT2_P1
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV8_FD_P2 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=4
+..Surface=PAV8_ZLAT1_P1
+..Surface=PAV9_ZLAT1_P1
+..Surface=PAV10_ZLAT1_P1
+..Surface=PAV11_ZLAT1_P1
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV8_FD_P1_CHAPA is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=PAV8_FD_P1_J1_FIXO
+==================================
+Surface=PAV8_FD_P1_J1_FIXO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV8_FD_PISO_CHAPA is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV8_FD_PISO_J1_ABERTA is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV8_FD_TETO_CHAPA is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV8_FD_TETO_ABERTA is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV9_FD_P3 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV9_FD_P3_J2_ABRE is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV9_FD_P4 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=3
+..Surface=PAV9_ZLAT2_P1
+..Surface=PAV10_ZLAT2_P1
+..Surface=PAV11_ZLAT2_P1
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV9_FD_P2 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=3
+..Surface=PAV9_ZLAT1_P1
+..Surface=PAV10_ZLAT1_P1
+..Surface=PAV11_ZLAT1_P1
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV9_FD_P1_CHAPA is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=6
+..Surface=PAV9_ZLAT2_P1
+..Surface=PAV9_ZLAT1_P1
+..Surface=PAV10_ZLAT1_P1
+..Surface=PAV10_ZLAT2_P1
+..Surface=PAV11_ZLAT1_P1
+..Surface=PAV11_ZLAT2_P1
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=PAV9_FD_P1_J1_FIXO
+==================================
+Surface=PAV9_FD_P1_J1_FIXO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV9_FD_PISO_CHAPA is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV9_FD_PISO_J1_ABERTA is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV9_FD_TETO_CHAPA is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV9_FD_TETO_ABERTA is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV10_FD_P3 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV10_FD_P3_J2_ABRE is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV10_FD_P2 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=2
+..Surface=PAV10_ZLAT1_P1
+..Surface=PAV11_ZLAT1_P1
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV10_FD_P4 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=2
+..Surface=PAV10_ZLAT2_P1
+..Surface=PAV11_ZLAT2_P1
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV10_FD_P1_CHAPA is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=PAV10_FD_P1_J1_FIXO
+==================================
+Surface=PAV10_FD_P1_J1_FIXO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV10_FD_PISO_CHAPA is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV10_FD_PISO_J1_ABERTA is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV10_FD_TETO_CHAPA is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV10_FD_TETO_ABERTA is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV11_FD_P3 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV11_FD_P3_J2_ABRE is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV11_FD_P4 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=1
+..Surface=PAV11_ZLAT2_P1
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV11_FD_P2 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=1
+..Surface=PAV11_ZLAT1_P1
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV11_FD_P1_CHAPA is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=PAV11_FD_P1_J1_FIXO
+==================================
+Surface=PAV11_FD_P1_J1_FIXO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV11_FD_PISO_CHAPA is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV11_FD_PISO_J1_ABERTA is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV11_FD_TETO_CHAPA is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV11_FD_TETO_ABERTA is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV12_FD_P4 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV12_FD_P2 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV12_FD_P3 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV12_FD_P1_CHAPA is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=PAV12_FD_P1_J1_FIXO
+==================================
+Surface=PAV12_FD_P1_J1_FIXO is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV12_FD_PISO_CHAPA is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV12_FD_PISO_J1_ABERTA is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=PAV12_FD_TETO_CHAPA is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=1
+....Surface=PAV12_FD_TETO_ABERTA_FINAL
+==================================
+Surface=PAV12_FD_TETO_ABERTA_FINAL is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0

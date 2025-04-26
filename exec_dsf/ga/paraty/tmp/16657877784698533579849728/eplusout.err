@@ -1,0 +1,71 @@
+Program Version,EnergyPlus, Version 9.0.1-bb7ca4f0da, YMD=2022.10.14 19:49,
+   ** Warning ** CheckEnvironmentSpecifications: SimulationControl specified doing design day simulations, but no design environments specified.
+   **   ~~~   ** ...No design environment results produced. For these results, add appropriate SizingPeriod:* objects for your simulation.
+   ** Warning ** Weather file location will be used rather than entered (IDF) Location object.
+   **   ~~~   ** ..Location object=VICOSA
+   **   ~~~   ** ..Weather File Location=Rio de Janeiro-Vila Militar RJ BRA INMET WMO#=868790
+   **   ~~~   ** ..due to location differences, Latitude difference=[2.41] degrees, Longitude difference=[0.89] degrees.
+   **   ~~~   ** ..Time Zone difference=[0.0] hour(s), Elevation difference=[93.08] percent, [605.00] meters.
+   ** Warning ** FixViewFactors: View factors not complete. Check for bad surface descriptions or unenclosed zone="PAV3_FD".
+   ** Warning ** FixViewFactors: View factors not complete. Check for bad surface descriptions or unenclosed zone="PAV4_FD".
+   ** Warning ** FixViewFactors: View factors not complete. Check for bad surface descriptions or unenclosed zone="PAV6_FD".
+   ** Warning ** FixViewFactors: View factors not complete. Check for bad surface descriptions or unenclosed zone="PAV7_FD".
+   ** Warning ** FixViewFactors: View factors not complete. Check for bad surface descriptions or unenclosed zone="PAV9_FD".
+   ** Warning ** GetAirflowNetworkInput: AirflowNetwork:MultiZone:Zone object, Ventilation Control Zone Temperature Setpoint Schedule Name not required, when Ventilation Control Mode is neither Temperature nor Enthalpy.
+   **   ~~~   ** ..Ventilation Control Zone Temperature Setpoint Schedule Name specified = ALWAYS ON
+   **   ~~~   ** ..for Zone Name = "PAV2_FD", with Ventilation Control Mode = "CONSTANT"
+   ** Warning ** GetAirflowNetworkInput: AirflowNetwork:MultiZone:Zone object, Ventilation Control Zone Temperature Setpoint Schedule Name not required, when Ventilation Control Mode is neither Temperature nor Enthalpy.
+   **   ~~~   ** ..Ventilation Control Zone Temperature Setpoint Schedule Name specified = ALWAYS ON
+   **   ~~~   ** ..for Zone Name = "PAV3_FD", with Ventilation Control Mode = "CONSTANT"
+   ** Warning ** GetAirflowNetworkInput: AirflowNetwork:MultiZone:Zone object, Ventilation Control Zone Temperature Setpoint Schedule Name not required, when Ventilation Control Mode is neither Temperature nor Enthalpy.
+   **   ~~~   ** ..Ventilation Control Zone Temperature Setpoint Schedule Name specified = ALWAYS ON
+   **   ~~~   ** ..for Zone Name = "PAV4_FD", with Ventilation Control Mode = "CONSTANT"
+   ** Warning ** GetAirflowNetworkInput: AirflowNetwork:MultiZone:Zone object, Ventilation Control Zone Temperature Setpoint Schedule Name not required, when Ventilation Control Mode is neither Temperature nor Enthalpy.
+   **   ~~~   ** ..Ventilation Control Zone Temperature Setpoint Schedule Name specified = ALWAYS ON
+   **   ~~~   ** ..for Zone Name = "PAV5_FD", with Ventilation Control Mode = "CONSTANT"
+   ** Warning ** GetAirflowNetworkInput: AirflowNetwork:MultiZone:Zone object, Ventilation Control Zone Temperature Setpoint Schedule Name not required, when Ventilation Control Mode is neither Temperature nor Enthalpy.
+   **   ~~~   ** ..Ventilation Control Zone Temperature Setpoint Schedule Name specified = ALWAYS ON
+   **   ~~~   ** ..for Zone Name = "PAV6_FD", with Ventilation Control Mode = "CONSTANT"
+   ** Warning ** GetAirflowNetworkInput: AirflowNetwork:MultiZone:Zone object, Ventilation Control Zone Temperature Setpoint Schedule Name not required, when Ventilation Control Mode is neither Temperature nor Enthalpy.
+   **   ~~~   ** ..Ventilation Control Zone Temperature Setpoint Schedule Name specified = ALWAYS ON
+   **   ~~~   ** ..for Zone Name = "PAV7_FD", with Ventilation Control Mode = "CONSTANT"
+   ** Warning ** GetAirflowNetworkInput: AirflowNetwork:MultiZone:Zone object, Ventilation Control Zone Temperature Setpoint Schedule Name not required, when Ventilation Control Mode is neither Temperature nor Enthalpy.
+   **   ~~~   ** ..Ventilation Control Zone Temperature Setpoint Schedule Name specified = ALWAYS ON
+   **   ~~~   ** ..for Zone Name = "PAV8_FD", with Ventilation Control Mode = "CONSTANT"
+   ** Warning ** GetAirflowNetworkInput: AirflowNetwork:MultiZone:Zone object, Ventilation Control Zone Temperature Setpoint Schedule Name not required, when Ventilation Control Mode is neither Temperature nor Enthalpy.
+   **   ~~~   ** ..Ventilation Control Zone Temperature Setpoint Schedule Name specified = ALWAYS ON
+   **   ~~~   ** ..for Zone Name = "PAV9_FD", with Ventilation Control Mode = "CONSTANT"
+   ** Warning ** GetAirflowNetworkInput: AirflowNetwork:MultiZone:Zone object, Ventilation Control Zone Temperature Setpoint Schedule Name not required, when Ventilation Control Mode is neither Temperature nor Enthalpy.
+   **   ~~~   ** ..Ventilation Control Zone Temperature Setpoint Schedule Name specified = ALWAYS ON
+   **   ~~~   ** ..for Zone Name = "PAV10_FD", with Ventilation Control Mode = "CONSTANT"
+   ** Warning ** GetAirflowNetworkInput: AirflowNetwork:MultiZone:Zone object, Ventilation Control Zone Temperature Setpoint Schedule Name not required, when Ventilation Control Mode is neither Temperature nor Enthalpy.
+   **   ~~~   ** ..Ventilation Control Zone Temperature Setpoint Schedule Name specified = ALWAYS ON
+   **   ~~~   ** ..for Zone Name = "PAV11_FD", with Ventilation Control Mode = "CONSTANT"
+   ** Warning ** GetAirflowNetworkInput: AirflowNetwork:MultiZone:Zone object, Ventilation Control Zone Temperature Setpoint Schedule Name not required, when Ventilation Control Mode is neither Temperature nor Enthalpy.
+   **   ~~~   ** ..Ventilation Control Zone Temperature Setpoint Schedule Name specified = ALWAYS ON
+   **   ~~~   ** ..for Zone Name = "PAV12_FD", with Ventilation Control Mode = "CONSTANT"
+   ** Warning ** An AirflowNetwork:Multizone:Surface object has an air-flow opening corresponding to
+   **   ~~~   ** window or door = PAV11_FD_PISO_J1_ABERTA, which is within 
+   **   ~~~   ** 10 deg of being horizontal. Airflows through large horizontal openings are poorly
+   **   ~~~   ** modeled in the AirflowNetwork model resulting in only one-way airflow.
+   ** Warning ** An AirflowNetwork:Multizone:Surface object has an air-flow opening corresponding to
+   **   ~~~   ** window or door = PAV11_FD_TETO_ABERTA, which is within 
+   **   ~~~   ** 10 deg of being horizontal. Airflows through large horizontal openings are poorly
+   **   ~~~   ** modeled in the AirflowNetwork model resulting in only one-way airflow.
+   ** Warning ** An AirflowNetwork:Multizone:Surface object has an air-flow opening corresponding to
+   **   ~~~   ** window or door = PAV10_FD_PISO_J1_ABERTA, which is within 
+   **   ~~~   ** 10 deg of being horizontal. Airflows through large horizontal openings are poorly
+   **   ~~~   ** modeled in the AirflowNetwork model resulting in only one-way airflow.
+   ** Warning ** An AirflowNetwork:Multizone:Surface object has an air-flow opening corresponding to
+   **   ~~~   ** window or door = PAV10_FD_TETO_ABERTA, which is within 
+   **   ~~~   ** 10 deg of being horizontal. Airflows through large horizontal openings are poorly
+   **   ~~~   ** modeled in the AirflowNetwork model resulting in only one-way airflow.
+   ** Warning ** An AirflowNetwork:Multizone:Surface object has an air-flow opening corresponding to
+   **   ~~~   ** window or door = PAV9_FD_PISO_J1_ABERTA, which is within 
+   **   ~~~   ** 10 deg of being horizontal. Airflows through large horizontal openings are poorly
+   **   ~~~   ** modeled in the AirflowNetwork model resulting in only one-way airflow.
+   ** Warning ** An AirflowNetwork:Multizone:Surface object has an air-flow opening corresponding to
+   **   ~~~   ** window or door = PAV9_FD_TETO_ABERTA, which is within 
+   **   ~~~   ** 10 deg of being horizontal. Airflows through large horizontal openings are poorly
+   **   ~~~   ** modeled in the AirflowNetwork model resulting in only one-way airflow.
+   ** Warning ** An AirflowNetwork:Multizone:Surface object has an air-flow opening corresponding to

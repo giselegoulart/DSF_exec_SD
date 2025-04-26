@@ -1,0 +1,25 @@
+#!/bin/bash
+#SBATCH --nodes=1           #Numero de Nós
+#SBATCH --ntasks-per-node=1 #Numero de tarefas por Nó
+#SBATCH --ntasks=1          #Numero de tarefas
+#SBATCH -p cpu_dev        #Fila (partition) a ser utilizada
+#SBATCH -J DSF_teste_script #Nome job
+#SBATCH --time=00:20:00		       #Altera o tempo limite 
+#SBATCH --exclusive         #Utilização exclusiva dos nós durante a execução do job
+
+#Exibe os nos alocados para o Job
+echo $SLURM_JOB_NODELIST
+nodeset -e $SLURM_JOB_NODELIST
+
+cd $SLURM_SUBMIT_DIR
+
+#Configura o módulo de Deep Learning
+module load python/3.6.9
+#source prj/dsf_ufj/env/bin/activate
+module load energyplus/9.0.1
+
+#acessa o diretório onde o script está localizado 
+cd /scratch/dsf_ufj/gisele.silva/exec_dsf
+
+#executa o script
+python modelo_fachada_optimize_9-0.py 
