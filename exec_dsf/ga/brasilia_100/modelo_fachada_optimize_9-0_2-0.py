@@ -8,6 +8,7 @@ import time
 import pygmo as pg
 import subprocess
 import random
+import os.path
 #from html.parser import HTMLParser
 
 try:
@@ -8004,17 +8005,21 @@ def run_idf_fluxo_topo(pwd, path, model):
        
     return col_mean, col_max
     
-def run_idf_fluxo_5_andar(pwd, path, model, weather_file_):
+def run_idf_fluxo_5_andar(pwd_, path, model, weather_file_):
     # Run a idf file return the objective function
     epw_file = weather_file_ #pwd+'weather_files/BRA_DF_Brasilia.867150_INMET/BRA_DF_Brasilia.867150_INMET.epw'
     print("passou")
-    #os.system("energyplus -w " + epw_file+' '+path+model+" >> out_trash_EP.txt")
-    os.system("energyplus -w " + epw_file+' -r -x '+ path+model+" > /dev/null")
-    #print("energyplus -w " + epw_file+' -r -x '+ path+model+" > /dev/null")
-
-    #with subprocess.Popen("energyplus -w " + epw_file+' -r -x '+pwd+model+" > /dev/null") as p: p.wait()
+    #os.system("energyplus -w " + epw_file+' '+path+model+" >> out_trash_EP.txt;sleep 10")
+    os.system("energyplus -w " + pwd_+epw_file+' -r -x '+ pwd_+path+model+" > /dev/null")
+    print("energyplus -w " + pwd_+epw_file+' -r -x '+ pwd_+path+model+" > /dev/null")
+    
+    #with subprocess.Popen("energyplus -w " +pwd_+epw_file+' -r -x '+pwd_+"fachada_dupla.idf > /dev/null", shell=True) as p: p.wait()
     #os.system('energyplus -w ./weather_files/Z5_PARATY-RJ_proj_2100.epw -r -x fachada_dupla.idf >> texto.txt; sleep 10')
     #subprocess.run('energyplus -w weather_files/Z5_PARATY-RJ_proj_2100.epw -r -x fachada_dupla.idf > /dev/null')
+    #subprocess.run("energyplus -w " +pwd_+epw_file+' -r -x '+pwd_+"fachada_dupla.idf > /dev/null", shell=True)
+    
+    #while(os.path.exists(path+'eplusout.csv'))==False:
+    #    time.sleep(10)
     
     file_name = 'eplusout.csv'
     col_list= ['Date/Time','PAV5_FD_P3_J2_ABRE:AFN Linkage Node 1 to Node 2 Volume Flow Rate [m3/s](Hourly)','PAV5_FD_P3_J2_ABRE:AFN Linkage Node 2 to Node 1 Volume Flow Rate [m3/s](Hourly)']
@@ -8035,16 +8040,16 @@ def objective_function(x,weather):
     idf_file = gen_idf(x) 
     os.system('mkdir ./tmp')
     aux=str(int(time.time()*1e16))
-    path='./tmp/'+aux+'/'
+    path='tmp/'+aux+'/'
     os.system('mkdir '+path)
     #out_file = path+"fachada_dupla_remove_"+aux+".idf"
     out_file = "fachada_dupla.idf"
     with open(path+out_file, "w") as text_file:
         text_file.write(idf_file)
     
-    #os.chdir(path)
+    os.chdir(path)
     f_, g_= run_idf_fluxo_5_andar(pwd,path,out_file, weather)
-    #os.chdir(pwd)
+    os.chdir(pwd)
     print('col_mean:',f_,'    x:',x)
     os.system('rm -rf '+path)
     return f_,g_
@@ -8109,7 +8114,8 @@ arquivos_cidades=[['Z5 PARATY-RJ','INMET_SE_RJ_A619_PARATY_01-01-2022_A_31-12-20
 
 #path_weather_files = './weather_files/'+arquivos_cidades[0][0]
 #weather_file = path_weather_files+'_proj_2100.epw'
-weather_file = './weather_files/Z6 BRASILIA-DF_proj_wind_2100.epw'
+
+weather_file = 'weather_files/Z6_BRASILIA-DF_proj_2100.epw'
 #print(weather_file)
 
 basename='fachada_dupla_brasilia_2100_'
